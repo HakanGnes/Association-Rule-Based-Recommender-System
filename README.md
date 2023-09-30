@@ -1,12 +1,12 @@
 # Armut Association Rule Based Recommender System
 
-##Business Problem:
+## Business Problem:
 Armut, Turkey's largest online service platform, brings together service providers and those who want to receive service. It allows you to easily access services such as cleaning, renovation and transportation with a few taps on your computer or smartphone. It is desired to create a product recommendation system with Association Rule Learning, using the data set containing service users and the services and categories they receive.
 
 ## Data set:
 The data set consists of the services received by customers and the categories of these services. It contains date and time information of each service received.
 
-##Variables:
+## Variables:
 
 UserId: Customer number
 
